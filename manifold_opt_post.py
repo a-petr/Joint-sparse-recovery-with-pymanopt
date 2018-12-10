@@ -7,6 +7,9 @@ Created on Sun Dec  9 17:22:41 2018
 We generate a random matrices A of size M x N and a random s-row sparse
 matrix X of size K x N.
 
+1. First rewrite Y=YT * Y0 
+2. Solve AW=YT
+3. Recover X=YT * Y0
 
 """
 
