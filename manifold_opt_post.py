@@ -9,7 +9,7 @@ matrix X of size K x N.
 
 1. First rewrite Y=YT * Y0 
 2. Solve AW=YT
-3. Recover X=YT * Y0
+3. Recover X=W * Y0
 
 """
 
